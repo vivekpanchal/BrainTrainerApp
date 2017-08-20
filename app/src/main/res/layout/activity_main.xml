@@ -204,6 +204,7 @@
                 android:onClick="chooseAnswer"
                 android:tag="3"
                 android:text="3"
+
                 android:textSize="50sp" />
 
 
